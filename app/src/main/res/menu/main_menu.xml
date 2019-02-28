@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    xmlns:app= "http://schemas.android.com/apk/res-auto" >
+    <item
+        android:id="@+id/platos"
+        android:icon="@drawable/ic_launcher_background"
+        android:title="Platos"
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/hacerReserva"
+        android:icon="@drawable/ic_launcher_background"
+        android:title="Hacer Reserva"
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/verReserva"
+        android:icon="@drawable/ic_launcher_background"
+        android:title="Ver Reserva"
+        app:showAsAction="always" />
+</menu>
